@@ -8,7 +8,6 @@
             "email": "info@mindwo.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "webpatser/laravel-uuid": "*"
     }
