@@ -9,5 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "webpatser/laravel-uuid": "*"
+    }
 }
