@@ -1,0 +1,13 @@
+{
+    "name": "mindwo/pages",
+    "description": "Package serves Mindwo CMS web pages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mindwo",
+            "email": "info@mindwo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

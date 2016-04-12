@@ -1,0 +1,1 @@
+<link href="{{Request::root()}}/plugins/jq_cloud/dist/jqcloud.css" rel="stylesheet">

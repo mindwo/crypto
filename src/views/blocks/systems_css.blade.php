@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="{{Request::root()}}/css/blocks/systems.css" />
